@@ -8,7 +8,7 @@ contract EVotingSystem {
         string photoUrl;
         uint voteCount;
     }
- 
+
     struct Election {
         uint id;
         string name;
